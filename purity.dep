@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "purity-devices/android_kernel_nvidia_tegra3",
+    "target_path": "kernel/asus/grouper",
+    "revision": "stable"
+  },
+  {
+    "remote": "github",
+    "repository": "Unlegacy-Android/android_hardware_nvidia_tegra3",
+    "target_path": "hardware/nvidia/tegra3",
+    "revision": "stable"
+  },
+  {
+    "remote": "github",
+    "repository": "purity-devices/vendor_asus_grouper",
+    "target_path": "vendor/asus/grouper",
+    "revision": "android-7.1"
+  }
+]
